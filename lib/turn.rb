@@ -19,9 +19,6 @@ elsif board[index] == "X"|| board[index] == "O"
 end
 end
 
-def move
-
-end
 
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
